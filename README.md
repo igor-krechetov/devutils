@@ -1,2 +1,1 @@
-# logging_utils
-Simple logging helper library
+Simple utils that make my developer life a bit more easier.
